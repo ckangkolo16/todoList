@@ -1,0 +1,105 @@
+* {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.title {
+  position: relative;
+  width: 300px;
+  height: 112px;
+  background: none;
+  bottom: -6px;
+  left: 105px;
+}
+
+.title input {
+  width: 292px;
+  height: 34px;
+}
+
+.title button {
+  width: 113px;
+  margin-left: 183px;
+  margin-top: 3px;
+}
+
+.title2 {
+  position: relative;
+  width: 424px;
+  height: 50px;
+  background-color: rgb(113, 109, 109);
+  left: 430px;
+  top: -112px;
+}
+
+.container {
+  position: absolute;
+  margin-top: 0px;
+  background-color: lightblue;
+  width: fit-content;
+  height: 549px;
+}
+
+.form-container {
+  position: absolute;
+  background-color: rgba(132, 129, 129, 0.372);
+  width: 426px;
+  height: 500px;
+  left: 429px;
+  top: 49px;
+}
+
+.checkbox {
+  position: relative;
+  left: 400px;
+  bottom: 35px;
+}
+
+p {
+  margin-left: 66px;
+  margin-top: 3px;
+  padding-top: 20px;
+  padding: 2px;
+}
+
+.rowdiv {
+  height: 34px;
+}
+.edit {
+  color: blue;
+  top: -38px;
+  bottom: 0px;
+  left: -10px;
+  right: 0px;
+}
+
+.del {
+  color: red;
+  left: -5px;
+  right: 0px;
+  bottom: 38px;
+}
+
+.btn {
+  position: relative;
+  height: 13px;
+  width: 10px;
+  font-size: 8px;
+  padding-bottom: 6px;
+  padding-left: 4px;
+}
+
+.save {
+  position: relative;
+  height: 13px;
+  width: 10px;
+  font-size: 8px;
+  padding-bottom: 6px;
+  padding-left: 4px;
+  top: -38px;
+  right: 0px;
+}
+
+.text {
+  background-color: rgba(202, 198, 198, 0.372);
+}
